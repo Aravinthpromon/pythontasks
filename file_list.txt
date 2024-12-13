@@ -1,0 +1,10 @@
+Files in 'C:\Users\Aravind\pythontasks':
+  categorized_numbers.txt
+  dict_of_files_and_directories.py
+  dict_of_files_and_directories_file.py
+  even_odd_prime_as_dict.py
+  even_odd_prime_as_dict_file.py
+  files_and_directories.txt
+  files_in_given_directory.py
+  files_in_given_directory_file.py
+  file_list.txt
